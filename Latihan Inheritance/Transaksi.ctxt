@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Transaksi
+comment1.params=namaPelanggan\ noTlpnPelanggan
+comment1.target=Transaksi(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTotalPembayaran()
+comment3.params=scanner
+comment3.target=void\ beliTanaman(java.util.Scanner)
+comment4.params=scanner
+comment4.target=Tanaman\ pilihTanamanHias(java.util.Scanner)
+comment5.params=scanner
+comment5.target=Tanaman\ pilihTanamanDaun(java.util.Scanner)
+numComments=6

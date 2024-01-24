@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pemakaman
+comment1.params=namaPemakaman\ alamat\ jumlahMakam\ nomorTelepon
+comment1.target=Pemakaman(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayInfo()
+numComments=3

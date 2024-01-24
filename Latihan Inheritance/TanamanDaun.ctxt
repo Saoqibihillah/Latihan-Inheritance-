@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TanamanDaun
+comment1.params=jenis\ harga
+comment1.target=TanamanDaun(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDeskripsi()
+numComments=3

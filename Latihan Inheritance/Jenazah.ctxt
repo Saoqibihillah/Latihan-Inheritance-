@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Jenazah
+comment1.params=namaPemakaman\ alamat\ jumlahMakam\ nomorTelepon\ namaAlmarhum\ usia
+comment1.target=Jenazah(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNamaAlmarhum()
+comment3.params=
+comment3.target=void\ tampilkanInformasiJenazah()
+numComments=4
